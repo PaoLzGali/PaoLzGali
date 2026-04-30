@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Writing my thesis on seismic rupture modeling<br>📚 I'm currently learning SQL and PostgreSQL for GIS software<br>🎲 Fun fact: I also love collecting minerals</p>
+<p align="left">✨Writing codes for seismological processing<br>📚 I'm currently learning SQL and PostgreSQL for GIS software<br>🎲 Fun fact: I also love collecting minerals</p>
 
 ###
 
