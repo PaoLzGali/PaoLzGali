@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋 I'm Paola Lopez Galicia</h1>
+<h1 align="left">Hi! I'm Paola Lopez Galicia</h1>
 
 ###
 
-<p align="left">I'm an Earth scientist🌋🌎 specializing in seismic modeling and geospatial data analysis, with a passion for understanding natural phenomena. I combine both my geosciences expertise with python programming to solve different challenges such as modeling of geological processes, understanding geophysical data sets,  and visualize spatial data for actionable insights.</p>
+<p align="left">I'm an Earth scientist specializing in seismic modeling and geospatial data analysis, with a passion for understanding natural phenomena. I combine both my geosciences expertise with python programming to solve different challenges such as modeling of geological processes, understanding geophysical data sets,  and visualizing spatial data for actionable insights.</p>
 
 ###
 
@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨Writing codes for seismological processing<br>📚 I'm currently learning SQL and PostgreSQL for GIS software<br>🎲 Fun fact: I also love collecting minerals</p>
+<p align="left"><ul>
+  <li>Writing codes for seismological processing</li>
+  <li>I'm currently learning SQL and PostgreSQL for GIS Software</li>
+  <li>Fun fact: I also love collecting minerals</li>
+    
 
 ###
 
