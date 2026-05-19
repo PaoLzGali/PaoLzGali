@@ -14,6 +14,7 @@
   <li>Writing codes for seismological processing</li>
   <li>I'm currently learning SQL and PostgreSQL for GIS Software</li>
   <li>Fun fact: I also love collecting minerals</li>
+</ul>
     
 
 ###
