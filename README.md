@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an Earth scientist specializing in seismic modeling and geospatial data analysis, with a passion for understanding natural phenomena. I combine both my geosciences expertise with python programming to solve different challenges such as modeling of geological processes, understanding geophysical data sets,  and visualizing spatial data for actionable insights.</p>
+<p align="left">I'm an Earth scientist specializing in seismic modeling (and geospatial data analysis), with a passion for understanding natural phenomena. I combine both my geosciences expertise with python programming to solve different challenges, specially related to earthquakes and seismology.</p>
 
 ###
 
@@ -12,7 +12,8 @@
 
 <p align="left"><ul>
   <li>Writing codes for seismological processing</li>
-  <li>I'm currently learning SQL and PostgreSQL for GIS Software</li>
+  <li>I'm a master's student</li></li>
+  <li>I'm currently learning SQL and PostgreSQL for GIS Software, and I'm trying to learn C</li>
   <li>Fun fact: I also love collecting minerals</li>
 </ul>
     
