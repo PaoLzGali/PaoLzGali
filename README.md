@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an Earth Scientist specializing in seismic modeling (and geospatial data analysis), with a passion for understanding natural phenomena. I combine both my geosciences knowledge with python programming to understand the Earth, specially to understand earthquakes.</p>
+<p align="left">I'm an Earth Scientist specializing in seismic modeling (with a little geospatial data analysis in secret), with a passion for understanding natural phenomena. I combine both my geosciences knowledge with python programming to understand the Earth, specially to understand earthquakes.</p>
 
 ###
 
